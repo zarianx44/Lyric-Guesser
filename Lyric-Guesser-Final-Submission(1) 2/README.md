@@ -1,4 +1,4 @@
-Lyric Guesser is a game created by Zara Chaudhry with the help of Bilal Chaudhry and was completed on June 20th 2023.
+Lyric Guesser is a game created by Zara Chaudhry and was completed on June 20th 2023.
 It is a game where a lyric from a variety of genres will be displayed with a missing word and the user must guess the correct word to earn points. 
 There are 3 genre categories, 2000s throwbacks, 2010 hits, and Zaras picks. Each of the genres has 10 lyrics with missing words. The objective of the game is to guess to correct missing word. 
 This program was designed to be a source of entertainment and to demonstrate cirriculum expectations in the ICS3U course.
